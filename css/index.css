@@ -1,0 +1,47 @@
+body,
+html {
+    padding: 10px;
+    margin: 0;
+}
+
+.title {
+    display: inline;
+    font-family: sans-serif;
+    color: #fccf03;
+    font-size: 35px;
+}
+
+nav {
+    padding: 25px;
+    background-color: #161616;
+    text-align: center;
+    border-radius: 20px;
+    width: 800px;
+    margin: auto;
+}
+
+nav ul {
+    display: block;
+}
+
+nav ul li {
+    display: inline;
+    margin: 5px;
+}
+
+.container-svg {
+    width: 600px;
+    margin: auto;
+}
+
+.container {
+    padding: 10px;
+    text-align: center;
+}
+
+.container p {
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    color: #fccf03;
+}
